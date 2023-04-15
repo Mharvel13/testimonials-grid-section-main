@@ -36,9 +36,9 @@ Users should be able to:
 
 ### Links
 
-- Frontend Mentor Solution URL: [Frontend Mentor Solution Page](https://www.frontendmentor.io/solutions/)
-- Live Site URL: [Live Hosted Website](https://mharvel13.github.io/)
-- Github Solution URL: [Github Hosted Codes](https://github.com/Mharvel13/)
+- Frontend Mentor Solution URL: [Frontend Mentor Solution Page](https://www.frontendmentor.io/solutions/testimonials-grid-section-using-tailwind-css-OFIfrZb1x5)
+- Live Site URL: [Live Hosted Website](https://mharvel13.github.io/testimonials-grid-section-main/)
+- Github Solution URL: [Github Hosted Codes](https://github.com/Mharvel13/testimonials-grid-section-main)
 
 ## My process
 
