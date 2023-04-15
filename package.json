@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "prettier-plugin-tailwindcss": "^0.2.7",
     "tailwindcss": "^3.3.1"
   },
   "name": "testimonials-grid-section-main",
@@ -81,7 +82,8 @@
     "yaml": "^1.10.2"
   },
   "scripts": {
-    "build": "npx tailwindcss -i ./src/input.css -o ./dist/css/style.css --watch"
+    "build": "npx tailwindcss -i ./src/input.css -o ./dist/css/style.css --watch",
+    "prettier" : "npx prettier --write **/*.html"
   },
   "keywords": [],
   "author": "",
